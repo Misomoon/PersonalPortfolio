@@ -1,0 +1,24 @@
+body{
+  text-align:center;
+  background-color:rgb(230, 249, 219)
+}
+h3{
+font-family: 'Happy Monkey', cursive;
+
+}
+#lit{
+  background-color:rgb(168, 237, 147)
+
+
+}
+p{
+  border:5px solid rgb(255, 209, 251)
+}
+img {
+  width:350px;
+  height:350px;
+  padding: 10px 30px 10px 30px
+}
+#hello{
+  font-family: 'Josefin Sans', sans-serif;
+}

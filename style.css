@@ -14,6 +14,8 @@ font-family: 'Happy Monkey', cursive;
 p{
   border:6px solid rgb(23, 104, 25)
 }
+
+}
 img {
   width:350px;
   height:350px;
@@ -21,4 +23,7 @@ img {
 }
 #hello{
   font-family: 'Josefin Sans', sans-serif;
+}
+.frog{
+border:6px solid rgb(23, 104, 25)
 }

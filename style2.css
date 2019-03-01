@@ -6,7 +6,7 @@ h3{
 font-family: 'Happy Monkey', cursive;
 
 }
-
+.button{background-color:pink;}
 p{
 font-family: 'Happy Monkey', cursive;
 
@@ -24,4 +24,13 @@ font-family: 'Happy Monkey', cursive;
 #orderNote{
     padding: 10px 30px 10px 30px
 
+
+}
+.button{
+  width: 200px;
+  height: 80px;
+  border: 3px solid black;
+  font-size: 26px;
+  background-color:rgb(27, 91, 32);
+  color: white;
 }

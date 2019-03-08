@@ -9,21 +9,50 @@ font-family: 'Happy Monkey', cursive;
 #lit{
   background-color:rgb(168, 237, 147)
 
-
 }
 p{
   border:6px solid rgb(23, 104, 25)
 }
 
-}
-img {
+
+img{
   width:350px;
   height:350px;
   padding: 10px 30px 10px 30px
 }
-#hello{
-  font-family: 'Josefin Sans', sans-serif;
+
+h1{
+  font-family: 'Happy Monkey', cursive;
 }
 .frog{
 border:6px solid rgb(23, 104, 25)
+}
+h2{
+font-family: 'Happy Monkey', cursive;
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:rgb(7, 122, 20);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color:rgb(42, 170, 57);
 }

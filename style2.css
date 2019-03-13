@@ -24,7 +24,7 @@ font-family: 'Happy Monkey', cursive;
 
 
 #hello{
-  font-family: 'Josefin Sans', sans-serif;
+font-family: 'Happy Monkey', cursive;
 }
 .
 #orderNote{
@@ -73,5 +73,13 @@ li a {
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-  background-color: #111;
+  background-color:rgb(42, 170, 57);
+}
+img{
+  width:350px;
+  height:350px;
+  padding: 10px 30px 10px 30px
+}
+.allTheProjects{
+  border:6px solid rgb(23, 104, 25)
 }

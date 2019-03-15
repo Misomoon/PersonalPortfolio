@@ -56,3 +56,7 @@ li a {
 li a:hover {
   background-color:rgb(42, 170, 57);
 }
+.active {
+  background-color: #4CAF50;
+  color: white;
+}

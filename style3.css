@@ -33,7 +33,7 @@ font-family: 'Happy Monkey', cursive;
 
 }
 .button {
-  background-color:rgb(168, 237, 147); /* Green */
+  background-color:rgb(132, 244, 137); /* Green */
   border:6px solid rgb(23, 104, 25);
   color: green;
   padding: 30px 60px;
@@ -44,7 +44,7 @@ font-family: 'Happy Monkey', cursive;
   font-family: 'Happy Monkey', cursive;
   border-radius: 50%;
 }
-.button:hover {background-color:rgb(181, 249, 179) }
+.button:hover {background-color: #3e8e41}
 
 .button:active {
   background-color: #3e8e41;
@@ -76,8 +76,8 @@ li a:hover {
   background-color:rgb(42, 170, 57);
 }
 img{
-  width:350px;
-  height:350px;
+  width:600px;
+  height:400px;
   padding: 10px 30px 10px 30px
 }
 .allTheProjects{

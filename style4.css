@@ -1,0 +1,89 @@
+body{
+  text-align:center;
+  background-color:rgb(230, 249, 219)
+}
+h3{
+font-family: 'Happy Monkey', cursive;
+
+}
+h1{
+font-family: 'Happy Monkey', cursive;
+}
+h2{
+font-family: 'Happy Monkey', cursive;
+}
+.button{background-color:pink;}
+p{
+font-family: 'Happy Monkey', cursive;
+
+}
+#lit{
+  background-color:rgb(168, 237, 146)
+
+}
+
+
+#hello{
+font-family: 'Happy Monkey', cursive;
+}
+.
+#orderNote{
+    padding: 10px 30px 10px 30px
+
+
+}
+.button {
+  background-color:rgb(132, 244, 137); /* Green */
+  border:6px solid rgb(23, 104, 25);
+  color: green;
+  padding: 30px 60px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  font-family: 'Happy Monkey', cursive;
+  border-radius: 50%;
+}
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:rgb(7, 122, 20);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color:rgb(42, 170, 57);
+}
+img{
+  width:680px;
+  height:1000px;
+  padding: 10px 30px 10px 30px
+}
+.allTheProjects{
+  border:6px solid rgb(23, 104, 25)
+}
+.active {
+  background-color: #4CAF50;
+  color: white;
+}
